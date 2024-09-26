@@ -42,7 +42,7 @@ const delete_data = (req, res) => {
   });
 };
 
-//routes
+//routess
 const router = express.Router();
 
 router
